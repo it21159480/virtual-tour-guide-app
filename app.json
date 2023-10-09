@@ -1,6 +1,6 @@
 {
-  "expo": {
-    "name": "project",
+  "tour": {
+    "name": "tour",
     "slug": "project",
     "version": "1.0.0",
     "orientation": "portrait",
